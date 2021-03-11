@@ -9,30 +9,37 @@
 <hr/>
 <h2 align="center">🏗 My Projects</h2>
 
-### **<a href="https://www.npmjs.com/package/@tuentyfaiv/mediaplayer" target="_blank" rel="noopener noreferrer">🎬 Mediaplayer</a>**
-> This is a media player built with web components, typescript and sass, to work in any framework or library of javascript.
-[Repository here](https://github.com/TuentyFaiv/Mediaplayer)
+### **[🎬 Mediaplayer](https://www.npmjs.com/package/@tuentyfaiv/mediaplayer)**
+> This is a media player built with web components, typescript and sass, to work in any javascript framework or library.
+> 
+> [Repository here](https://github.com/TuentyFaiv/Mediaplayer)
 
 ### **[💻 Portfolio](https://tuentyfaiv.vercel.app/)**
-> description
-[Repository here](https://github.com/TuentyFaiv/website)
+> Website where I show the projects that I have done and participated in, and sometimes I write publications or "tutorials" on web development.
+> 
+> [Repository here](https://github.com/TuentyFaiv/website)
 
 ### **[🧪 Rick and Morty](https://rickandmorty.tuentyfaiv.vercel.app/)**
 > description
-[Repository here](https://github.com/TuentyFaiv/Rick-and-Morty)
+> 
+> [Repository here](https://github.com/TuentyFaiv/Rick-and-Morty)
 
 ### **[🐦 Colibrí Landing page](https://colibri.education/)**
 > descriptio
-_Repository not available_
+> 
+> _Repository not available_
 
-### **[🎨 Juego simon](https://tuentyfaiv.github.io/JuegoSimon/)**
+### **[🎨 Simon say game](https://tuentyfaiv.github.io/JuegoSimon/)**
 > description
-[Repository here](https://github.com/TuentyFaiv/JuegoSimon)
+> 
+> [Repository here](https://github.com/TuentyFaiv/JuegoSimon)
 
-### **[🎧 AppPodcast](https://podcast.tuentyfaiv.vercel.app/)**
+### **[🎧 App podcast](https://podcast.tuentyfaiv.vercel.app/)**
 > description
-[Repository here](https://github.com/TuentyFaiv/AppPodcast)
+> 
+> [Repository here](https://github.com/TuentyFaiv/AppPodcast)
 
 ### **[⚔ X Perience](https://xperience.vercel.app/)**
 > description
-[Repository here](https://github.com/TuentyFaiv/giveMeExperience)
+> 
+> [Repository here](https://github.com/TuentyFaiv/giveMeExperience)
