@@ -19,23 +19,23 @@
 > 
 > [Repository here](https://github.com/TuentyFaiv/website)
 
-### **[🧪 Rick and Morty](https://rickandmorty.tuentyfaiv.vercel.app/)**
-> description
-> 
-> [Repository here](https://github.com/TuentyFaiv/Rick-and-Morty)
-
 ### **[🐦 Colibrí Landing page](https://colibri.education/)**
-> descriptio
+> description
 > 
 > _Repository not available_
 
+### **[🧪 Rick and Morty](https://rickandmorty.tuentyfaiv.vercel.app/)**
+> Website showing Rick and Morty's characters, locations and episodes, using [GraphQL's Rick and Morty API](https://rickandmortyapi.com/). You can filter the information.
+> 
+> [Repository here](https://github.com/TuentyFaiv/Rick-and-Morty)
+
 ### **[🎨 Simon say game](https://tuentyfaiv.github.io/JuegoSimon/)**
-> description
+> The classic game of following the patron saint of colors, project resulting from the course of JavaScript Basics of Platzi. Levels and speeds can be configured.
 > 
 > [Repository here](https://github.com/TuentyFaiv/JuegoSimon)
 
 ### **[🎧 App podcast](https://podcast.tuentyfaiv.vercel.app/)**
-> description
+> Podcast application made in Next.js using the [AudioBoom API](https://api.audioboom.com/channels/recommended/), with this application I learned how to use Next.js.
 > 
 > [Repository here](https://github.com/TuentyFaiv/AppPodcast)
 
