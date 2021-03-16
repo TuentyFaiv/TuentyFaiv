@@ -1,5 +1,13 @@
 [![Hi there 👋, I'm Tonalli 😁💻](./heroGitHub.png)](https://tuentyfaiv.vercel.app/)
+<br />
+<br />
+**Frontend developer** focused on creating good interfaces and giving the best user experience. Constantly updating me on technologies like Javascript, React, Sass, GraphQL and more. Also learning and improving on UI, UX and basic design fundamentals to improve my quality as Frontend
 
+<p align="center">
+  <a href="https://twitter.com/TuentyFaiv"><img src="https://img.shields.io/badge/twitter%20-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" /></a>
+  <a href="https://www.linkedin.com/in/tuentyfaiv/"><img src="https://img.shields.io/badge/linkedin%20-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="https://t.me/TuentyFaiv/"><img src="https://img.shields.io/badge/telegram%20-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge" /></a>
+</p>
 
 <hr/>
 <h2 align="center">🧠 My knowledges</h2>
