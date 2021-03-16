@@ -1,11 +1,27 @@
 [![Hi there 👋, I'm Tonalli 😁💻](./heroGitHub.png)](https://tuentyfaiv.vercel.app/)
-<!--About Me-->
-<!--Contact Info-->
+
 
 <hr/>
-<h2 align="center">Technologies</h2>
-<!--Logos with names-->
-<!--Or Images with logoa and names-->
+<h2 align="center">🧠 My knowledges</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
+  <img src="https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript badge" />
+  <img src="https://img.shields.io/badge/typescript%20-%23235a97.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" />
+  <img src="https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" />
+  <img src="https://img.shields.io/badge/sass%20-%23bf4080.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass badge" />
+  <img src="https://img.shields.io/badge/less%20-%231d365d.svg?&style=for-the-badge&logo=less&logoColor=white" alt="Less badge" />
+  <img src="https://img.shields.io/badge/stylus%20-%23ff6347.svg?&style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus badge" />
+  <img src="https://img.shields.io/badge/redux%20-%23764abc.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux badge" />
+  <img src="https://img.shields.io/badge/git%20-%23f14e32.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/graphql%20-%23e10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL badge" />
+  <img src="https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/monodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
+  <img src="https://img.shields.io/badge/vercel%20-%23111111.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel badge" />
+  <img src="https://img.shields.io/badge/progressive%20web%20apps%20-%236600ed.svg?&style=for-the-badge&logoColor=white" alt="Progressive Web Apps badge" />
+</p>
+
 <hr/>
 <h2 align="center">🏗 My Projects</h2>
 
@@ -20,7 +36,7 @@
 > [Repository here](https://github.com/TuentyFaiv/website)
 
 ### **[🐦 Colibrí Landing page](https://colibri.education/)**
-> description
+> A landing page of a children's stay and children's garden with basic information to show what they know how to do, made in Gatsby.js and with formspark for the contact form.
 > 
 > _Repository not available_
 
@@ -40,6 +56,6 @@
 > [Repository here](https://github.com/TuentyFaiv/AppPodcast)
 
 ### **[⚔ X Perience](https://xperience.vercel.app/)**
-> description
+> This is a personal project that I'm still building, done in React, Redux, Sass. My goal is to be able to generate projects from various areas of study so that students gain experience and have less difficulty getting a job.
 > 
 > [Repository here](https://github.com/TuentyFaiv/giveMeExperience)
