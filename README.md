@@ -1,4 +1,4 @@
-[![Hi there 👋, I'm Tonalli 😁💻](./heroGitHub.png)](https://tuentyfaiv.vercel.app/)
+[![Hi there 👋, I'm Tonalli 😁💻](./heroGitHubWithoutLogo.png)](https://tuentyfaiv.vercel.app/)
 <br />
 <br />
 **Frontend developer** focused on creating good interfaces and giving the best user experience. Constantly updating me on technologies like Javascript, React, Sass, GraphQL and more. Also learning and improving on UI, UX and basic design fundamentals to improve my quality as Frontend
@@ -9,7 +9,6 @@
   <a href="https://t.me/TuentyFaiv/"><img src="https://img.shields.io/badge/telegram%20-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge" /></a>
 </p>
 
-<hr/>
 <h2 align="center">🧠 My knowledges</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/progressive%20web%20apps%20-%236600ed.svg?&style=for-the-badge&logoColor=white" alt="Progressive Web Apps badge" />
 </p>
 
-<hr/>
 <h2 align="center">🏗 My Projects</h2>
 
 ### **[🎬 Mediaplayer](https://www.npmjs.com/package/@tuentyfaiv/mediaplayer)**
