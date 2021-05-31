@@ -1,4 +1,4 @@
-[![Hi there 👋, I'm Tonalli 😁💻](./heroGitHubWithoutLogo.png)](https://tuentyfaiv.vercel.app/)
+[![Hi there 👋, I'm Tonalli 😁💻](./heroGitHubWithoutLogo.png)](https://tuentyfaiv.com/)
 <br />
 <br />
 **Frontend developer** focused on creating good interfaces and giving the best user experience. Constantly updating me on technologies like Javascript, React, Sass, GraphQL and more. Also learning and improving on UI, UX and basic design fundamentals to improve my quality as Frontend
@@ -36,7 +36,7 @@
 > 
 > [Repository here](https://github.com/TuentyFaiv/Mediaplayer)
 
-### **[💻 Portfolio](https://tuentyfaiv.vercel.app/)**
+### **[💻 Portfolio](https://tuentyfaiv.com/)**
 > Website where I show the projects that I have done and participated in, and sometimes I write publications or "tutorials" on web development.
 > 
 > [Repository here](https://github.com/TuentyFaiv/website)
@@ -46,7 +46,7 @@
 > 
 > _Repository not available_
 
-### **[🧪 Rick and Morty](https://rickandmorty.tuentyfaiv.vercel.app/)**
+### **[🧪 Rick and Morty](https://rickandmorty.tuentyfaiv.com/)**
 > Website showing Rick and Morty's characters, locations and episodes, using [GraphQL's Rick and Morty API](https://rickandmortyapi.com/). You can filter the information.
 > 
 > [Repository here](https://github.com/TuentyFaiv/Rick-and-Morty)
@@ -56,7 +56,7 @@
 > 
 > [Repository here](https://github.com/TuentyFaiv/JuegoSimon)
 
-### **[🎧 App podcast](https://podcast.tuentyfaiv.vercel.app/)**
+### **[🎧 App podcast](https://podcast.tuentyfaiv.com/)**
 > Podcast application made in Next.js using the [AudioBoom API](https://api.audioboom.com/channels/recommended/), with this application I learned how to use Next.js.
 > 
 > [Repository here](https://github.com/TuentyFaiv/AppPodcast)
