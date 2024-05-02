@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://twitter.com/TuentyFaiv"><img src="https://img.shields.io/badge/twitter%20-%23961E1E.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" /></a>
   <a href="https://www.linkedin.com/in/tuentyfaiv/"><img src="https://img.shields.io/badge/linkedin%20-%23961E1E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-  <a href="https://t.me/TuentyFaiv/"><img src="https://img.shields.io/badge/telegram%20-%23961E1E.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge" /></a>
+  <a href="mailto:contact@tuentyfaiv.com"><img src="https://img.shields.io/badge/contact%20me%20-%23961E1E.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram badge" /></a>
 </p>
 
 <h2 align="center">🧠 My knowledges</h2>
@@ -28,23 +28,14 @@
 <h2 align="center">🏗 My Projects</h2>
 
 ## Libraries
-### **[🎬 Mediaplayer](https://www.npmjs.com/package/@tuentyfaiv/mediaplayer)**
-> This is a media player built with web components, typescript and sass, to work in any javascript framework or library.
-> 
-> [Repository here](https://github.com/TuentyFaiv/Mediaplayer)
 
 ### **[💾 tfverse](https://www.npmjs.com/package/@tuentyfaiv/cli)**
 > A CLI for frontend code generation, components, pages, layout, etc.
 > 
 > [Repository here](https://github.com/TuentyFaiv/generate)
 
-### **[🎞️ Gallery Photo](https://www.npmjs.com/package/@tuentyfaiv/gallery-react)**
-> A photo gallery in react
-> 
-> [Repository here](https://github.com/TuentyFaiv/GalleryReact)
-
-### **[📝 Svelte Form](https://www.npmjs.com/package/@tuentyfaiv/svelte-form)**
-> A form management library inspired by [Formik](https://formik.org/docs/overview), made for Svelte with customizable inputs.
+### **[📝 Faivform](http://forms.tuentyfaiv.com)**
+> Faivform is a form library for Svelte. It is built on top of Svelte and Typescript. It is inspired by [Formik](https://formik.org/docs/overview) and [React Hook Form](https://react-hook-form.com).
 > 
 > [Repository here](https://github.com/TuentyFaiv/svelte-form)
 
@@ -57,6 +48,16 @@
 > Library for http requests based on fetch
 > 
 > [Repository here](https://github.com/TuentyFaiv/http)
+
+### **[🎞️ Gallery Photo](https://www.npmjs.com/package/@tuentyfaiv/gallery-react)**
+> A photo gallery in react
+> 
+> [Repository here](https://github.com/TuentyFaiv/GalleryReact)
+
+### **[🎬 Mediaplayer](https://www.npmjs.com/package/@tuentyfaiv/mediaplayer)**
+> This is a media player built with web components, typescript and sass, to work in any javascript framework or library.
+> 
+> [Repository here](https://github.com/TuentyFaiv/Mediaplayer)
 
 ## Projects
 ### **[💻 Portfolio](https://tuentyfaiv.com/)**
